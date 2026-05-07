@@ -4,7 +4,7 @@ I'm a Physics and Chemistry student at Université Paris-Saclay, currently in th
 
 Originally from Sofia, Bulgaria, I moved to Paris in 2024 after completing a first year in CPGE at Lycée Stanislas. I’m interested in experimental physics, electronics, robotics, and scientific instrumentation.
 
-## Current project
+## [Current project: light-following robot](hhtps://github.com/yoanakraeva/light-following-robot)
 🔦 Light-following robot using Arduino, photoresistors, and DC motors
 
 ## Skills and tools
