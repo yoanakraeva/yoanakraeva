@@ -6,7 +6,7 @@ Originally from Sofia, Bulgaria, I moved to Paris in 2024 after completing a fir
 
 ## Current project
 ### 🔦 [Light-following robot](https://github.com/yoanakraeva/arduino-light-following-robot)
-🔦 Light-following robot using Arduino, photoresistors, and DC motors
+Light-following robot using Arduino, photoresistors, and DC motors
 
 ## Skills and tools
 - Python
